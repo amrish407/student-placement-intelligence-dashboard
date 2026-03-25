@@ -159,7 +159,18 @@ It includes:
 
 This repository contains the Power BI project file:
 
-- `Student_Placement_Intelligence_Dashboard.pbix`
+- `Students_Placement_Intelligence_Dashboard.pbix`
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](./Executive%20Overview.png)
+
+### Placement Drivers Analysis
+![Placement Drivers Analysis](./Placement%20Drives.png)
+
+### Salary & Company Insights
+![Salary & Company Insights](./Salary%20%26%20Insights.png)
 
 ## Results
 
